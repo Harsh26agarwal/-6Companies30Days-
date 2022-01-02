@@ -24,7 +24,7 @@ for(auto  it:m)
     if(c==10)  
     break;  
 }  
-cout<<v.size()<<endl;   
+
 for(auto  it:  v)
 cout<<it<<" ";
 	return 0;
