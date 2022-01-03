@@ -28,3 +28,5 @@ for(i=9;i>=0;i--)
 cout<<v[i]<<" ";
 return 0;
 }
+// Time complexity:O(N)*(10*log2(10)) 
+=O(N).
