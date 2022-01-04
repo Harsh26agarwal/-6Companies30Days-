@@ -4,3 +4,4 @@
 #IDE-58:Given a pattern containing only I's and D's. I for increasing and D
 #IDE-59:Minimum Size Subarray Sum. 
 #IDE-60:Array Pair Sum Divisibility Problem. 
+#IDE-61:Total number of a squares in a N*N board. 
