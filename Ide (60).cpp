@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 using namespace std;
 bool canPairs(int a[], int n, int k)  
@@ -20,5 +19,5 @@ bool canPairs(int a[], int n, int k)
 		else if (m[rem] !=m[k - rem])
 			return false;
 	}
-	return true;
+      return true;
 }
