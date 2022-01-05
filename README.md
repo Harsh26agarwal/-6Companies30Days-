@@ -7,3 +7,4 @@
 #IDE-61:Total number of a squares in a N*N board. 
 #IDE-62:Find the kid which gets the damaged toy. 
 #IDE-63:Decode the string. 
+#IDE-:GCD of strings.
