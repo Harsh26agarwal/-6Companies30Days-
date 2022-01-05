@@ -5,3 +5,4 @@
 #IDE-59:Minimum Size Subarray Sum. 
 #IDE-60:Array Pair Sum Divisibility Problem. 
 #IDE-61:Total number of a squares in a N*N board. 
+#IDE-62:Find the kid which gets the damaged toy. 
